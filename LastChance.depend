@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1681642124 source:c:\users\professional\desktop\lastchance\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"menu.h"
+	"stb-master/stb_easy_font.h"
+	"textures.h"
+
+1681641730 c:\users\professional\desktop\lastchance\menu.h
+
+1681641654 c:\users\professional\desktop\lastchance\textures.h
+
+1674029754 c:\users\professional\desktop\lastchance\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1681641640 source:c:\users\professional\desktop\lastchance\textures.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"stb-master/stb_image.h"
+
+1674029754 c:\users\professional\desktop\lastchance\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1681642446 source:c:\users\professional\desktop\lastchance\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"main.h"
+	"menu.h"
+	"textures.h"
+
+1681643016 c:\users\professional\desktop\lastchance\main.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"menu.h"
+	"stb-master/stb_easy_font.h"
+	"textures.h"
+
